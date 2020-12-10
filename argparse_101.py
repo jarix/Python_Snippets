@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 """
+    Argparse 101
+    
     Simple example how to use argparse module.
-    Compare sizes of 2 files
+    Compare sizes of 2 files.
 
     Author: Jari Honkanen
 """
