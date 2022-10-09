@@ -16,9 +16,9 @@ def display_time(thread_name, sleep_time):
     """ Loop with delay and display current time """
     print(thread_name + " starting ...")
     count = 0
-    while count < 5:
+    while count < 6:
         time.sleep(sleep_time)
-        print(f"{thread_name}: Time = {datetime.now().time()}")
+        print(f"Iteration {count}: {thread_name}: Time = {datetime.now().time()}")
         count += 1
 
     print(thread_name + " exiting ...")
