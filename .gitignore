@@ -7,5 +7,4 @@ private/
 junk*.txt
 Figure.*
 my_file_1.hdf5
-
-
+temp/
