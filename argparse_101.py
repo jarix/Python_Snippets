@@ -24,6 +24,7 @@ def get_file_size(file_name):
     return os.stat(file_name).st_size
 
 if __name__ == "__main__":
+    print("argparse_101 w/ arguments: ", args)
     size1 = get_file_size(args.file1)
     size2 = get_file_size(args.file2)
 
