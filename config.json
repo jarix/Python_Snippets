@@ -1,0 +1,14 @@
+{
+    "title": "My App",
+    "database": {
+    "server": "192.168.1.1",
+    "ports": [8000, 8001],
+    "enabled": true
+},
+"servers": [
+{
+    "name": "alpha",
+    "ip": "10.0.0.1"
+}
+]
+}
