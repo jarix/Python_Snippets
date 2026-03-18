@@ -1,0 +1,10 @@
+2026-03-18 12:20:39 | DEBUG | jarix | This is a debug message
+2026-03-18 12:20:39 | INFO | jarix | This is an info message
+2026-03-18 12:20:39 | WARNING | jarix | This is a warning message
+2026-03-18 12:20:39 | ERROR | jarix | This is an error message
+2026-03-18 12:20:39 | CRITICAL | jarix | This is a critical message
+2026-03-18 12:25:04 | DEBUG | This is a debug message
+2026-03-18 12:25:04 | INFO | This is an info message
+2026-03-18 12:25:04 | WARNING | This is a warning message
+2026-03-18 12:25:04 | ERROR | This is an error message
+2026-03-18 12:25:04 | CRITICAL | This is a critical message
