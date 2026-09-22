@@ -5,6 +5,7 @@ __pycache__/
 private/
 .idea/
 junk*.txt
+message_*.txt
 Figure.*
 my_file_1.hdf5
 *.npy
